@@ -125,7 +125,6 @@ a{
 
 .overlay img {
 	max-width: 100%;
-	max-height: 800px;
 }
 
 .overlay .descripcion {
@@ -140,6 +139,7 @@ a{
 .contenedor-img {
 	position: relative;
 	max-width: 60%;
+	max-height: 800px;
 }
 
 .overlay #btn-cerrar-popup {
